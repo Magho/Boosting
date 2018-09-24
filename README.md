@@ -11,7 +11,7 @@
 - matplotlib
 
 ## Used data set 
-[lending-club-data.gl](link to the data you upload)
+[lending-club-data.gl](https://github.com/Magho/Boosting/tree/master/lending-club-data.gl)
 
 # Algorithms used :
 -  decision trees.
